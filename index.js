@@ -37,9 +37,9 @@ app.use(express.json());
 
 //checking
 
-app.get('/', (req, res) => {
-  res.send('Hello World')
-})
+// app.get('/', (req, res) => {
+//   res.send('Hello World')
+// })
 
 
 
